@@ -1,3 +1,4 @@
+.gitignore
 simple-webapp-flask/
 crash-course/
 .DS_Store
